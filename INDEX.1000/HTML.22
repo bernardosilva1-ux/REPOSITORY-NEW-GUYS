@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Layout 2</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+  <header>Header</header>
+
+  <main>
+    <aside>
+      <p>A BMW é uma fabricante alemã fundada em 1916.</p>
+      <p>Ela é conhecida por carros de luxo e alto desempenho.</p>
+      <p>A marca investe em tecnologia e inovação automotiva.</p>
+    </aside>
+
+    <section class="conteudo">
+      <article>
+        <p>A BMW é uma fabricante alemã fundada em 1916.</p>
+        <p>Ela é conhecida por carros de luxo e alto desempenho.</p>
+        <p>A marca investe em tecnologia e inovação automotiva.</p>
+      </article>
+
+      <article>
+        <p>A BMW é uma fabricante alemã fundada em 1916.</p>
+        <p>Ela é conhecida por carros de luxo e alto desempenho.</p>
+        <p>A marca investe em tecnologia e inovação automotiva.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>Footer</footer>
+
+</body>
+</html>

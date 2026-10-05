@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header, footer {
+  background: green;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+main {
+  display: flex;
+  flex: 1;
+}
+
+aside {
+  width: 25%;
+  background: lightgray;
+  padding: 20px;
+}
+
+.conteudo {
+  flex: 1;
+  padding: 10px;
+}
+
+article {
+  background: gray;
+  color: white;
+  margin: 10px 0;
+  padding: 20px;
+}
